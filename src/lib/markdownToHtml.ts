@@ -1,7 +1,5 @@
-import { remark } from "remark";
-import html from "remark-html";
+import markdownToHtml from "zenn-markdown-html";
 
-export default async function markdownToHtml(markdown: string) {
-  const result = await remark().use(html).process(markdown);
-  return result.toString();
+export default async function convertMarkdownToHtml(markdown: string) {
+  return markdownToHtml(markdown);
 }
