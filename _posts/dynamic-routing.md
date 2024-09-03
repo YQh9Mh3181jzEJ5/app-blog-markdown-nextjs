@@ -1,11 +1,11 @@
 ---
-title: "ここでテストをしています！"
+title: "zenn風のコードスニペットを表示してみる"
 excerpt: "ここは要約です！"
-coverImage: "/assetgit s/blog/dynamic-routing/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+date: "2024-09-03T11:29:45+0900"
 author:
-  name: 名前です！
-  picture: "/assets/blog/authors/jj.jpeg"
+  name: YQh9Mh3181jzEJ5
+  picture: "/assets/blog/authors/cat.jpg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---

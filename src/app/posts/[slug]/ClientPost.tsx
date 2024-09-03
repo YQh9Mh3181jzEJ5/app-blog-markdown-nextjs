@@ -23,12 +23,11 @@ export default function ClientPost({ post, content }: ClientPostProps) {
           __html: initTwitterScriptInner,
         }}
       />
-      <article className="mb-32">
+      <article className="mb-16">
         <PostHeader
           title={post.title}
           coverImage={post.coverImage}
           date={post.date}
-          author={post.author}
         />
         <PostBody content={content} />
       </article>

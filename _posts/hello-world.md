@@ -1,11 +1,11 @@
 ---
-title: "test title"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "通常の文章の場合"
+excerpt: "通常の文章の場合"
 coverImage: "/assets/blog/hello-world/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2024-09-02T11:29:45+0900"
 author:
-  name: Tim Neutkens
-  picture: "/assets/blog/authors/tim.jpeg"
+  name: YQh9Mh3181jzEJ5
+  picture: "/assets/blog/authors/cat.jpg"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
