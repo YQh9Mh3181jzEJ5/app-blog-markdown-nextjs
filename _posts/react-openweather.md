@@ -13,6 +13,7 @@ ogImage:
 React、TypeScript、OpenWeather API を使って天気アプリを個人開発した。とてもシンプルなアプリだけれど学びも多かったので共有したい。
 
 [開発した天気アプリ](https://weather-app-ruby-nu.vercel.app/)
+[GitHubリポジトリ](https://github.com/YQh9Mh3181jzEJ5/weather-app)
 
 ## 目次
 
