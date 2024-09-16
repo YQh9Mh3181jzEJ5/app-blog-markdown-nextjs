@@ -39,6 +39,8 @@ const config: Config = {
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require("@tailwindcss/aspect-ratio"), // この行を追加
+  ],
 };
 export default config;
